@@ -1,0 +1,36 @@
+.PaperWork {
+    display: flex;
+    flex-direction: column;
+    padding:15%;
+    margin: 10%;
+    background-color: white;
+    align-self: center;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 15px;
+}
+.CopyRight {
+    align-items: center;
+    display: flex;
+    width: 75%;
+    padding-right: 25%;
+    padding-left: 15%;
+}
+
+.Worklog{
+    padding-right: 25%;
+    padding-left: 15%;
+    display: flex;
+    width: 75%;
+}
+.Head {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.Info{
+ font-size: large;
+ align-items: center;
+ text-align: center;
+ 
+}
